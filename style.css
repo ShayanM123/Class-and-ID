@@ -1,0 +1,20 @@
+#head1{ 
+    color: aqua;
+}
+
+#head2{ 
+    color: brown;
+}
+
+#head3{
+    color: blueviolet;
+}
+
+.s1{
+    color: burlywood;
+}
+
+body{
+    background-color: black;
+    text-align: center;
+}
